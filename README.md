@@ -56,3 +56,4 @@ python manage.py tests.py
 
 
 docker compose run web
+python3 manage.py collectstatic
