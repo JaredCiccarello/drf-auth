@@ -52,3 +52,7 @@ sqlparse==0.4.4
 Built-in Django testing
 
 python manage.py tests.py
+
+
+
+docker compose run web
